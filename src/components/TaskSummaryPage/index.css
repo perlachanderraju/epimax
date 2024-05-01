@@ -1,0 +1,15 @@
+.sumdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-width: 3px;
+    border-style: solid;
+}
+.sumdiv2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-width: 3px;
+    border-style: solid;
+}
